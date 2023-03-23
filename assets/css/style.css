@@ -26,7 +26,7 @@
    /* Frame Image color*/
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(304, 91%, 83%) 3%, 
+    hsl(300, 2%, 12%);
     hsl(0, 0%, 19%) 97%
   );
    /* gradient */
